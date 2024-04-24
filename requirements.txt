@@ -1,0 +1,10 @@
+langchain
+torch
+sentence_transformers
+faiss-cpu
+huggingface-hub
+pypdf
+ctransformers
+tiktoken
+streamlit
+streamlit-chat
