@@ -1,4 +1,5 @@
 Getting Started:
+conda create -p venv python=3.10
 pip install -r requirements.txt
 pip -q install accelerate
 pip -q install git+https://github.com/huggingface/transformers
