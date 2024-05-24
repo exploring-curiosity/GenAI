@@ -8,3 +8,5 @@ ctransformers
 tiktoken
 streamlit
 streamlit-chat
+psycopg2
+flask
